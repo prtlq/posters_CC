@@ -5,7 +5,7 @@
   $rows = $doc->find(' table > tbody > tr');
 
   // EDIT THIS!
-  $CLOUDINARY_USERNAME = "";
+  $CLOUDINARY_USERNAME = "dztdr5iqy";
 
 ?>
 
